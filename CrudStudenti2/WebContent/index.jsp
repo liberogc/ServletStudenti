@@ -6,7 +6,7 @@
    <link rel="stylesheet" href="css/login.css" type="text/css"/>
    <script type="text/javascript" src="JQueryLib/jquery-1.7.1.min.js"></script>
    <meta charset="ISO-8859-1">
-   <title>LOGIN</title>
+   <title>LOGIN STUDENTE</title>
 	<%
 		String errore = (String)request.getAttribute("errore");
 	%>
