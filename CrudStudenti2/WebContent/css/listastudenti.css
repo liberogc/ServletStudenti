@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+#titlista {	
+	font-family: serif;
+    font-size: 3vw;
+    border: 2px solid green;
+    color: white;
+    width: 75%;
+    border-radius: 5vw;
+    text-align: center;
+    margin: 0px auto;
+    background-color:navy;
+    margin-bottom: 2%;
+}
+
+table[id="tablista"]{
+	margin-left: 20%;
+}	
+
+.intesta{
+	font-family: serif;
+    font-size: 2vw;
+    color: red;		
+	
+}
+
+.lista{
+	font-family: serif;
+    font-size: 2vw;
+    color: blue;	
+    font-style: bold;		
+}

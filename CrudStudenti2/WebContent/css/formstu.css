@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+.labelstu{
+	font-family: serif;
+    font-size: 2vw;
+    color: red;	
+}
+
+#titins {	
+	font-family: serif;
+    font-size: 3vw;
+    border: 2px solid green;
+    color: white;
+    width: 75%;
+    border-radius: 5vw;
+    text-align: center;
+    margin: 0px auto;
+    background-color: orange;
+    margin-bottom: 1%;
+}
+
+.insstu{
+	font-family: serif;
+    font-size: 2vw;
+    color: green;	
+}
+
+form[id="forminsstu"]{
+	margin-left: 26%;
+}	
+
+#confinsstu{
+	width: 70%;	
+    border-radius: 5vw;
+    font-size: 2vw;
+    margin-top: 6%;
+}

@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+table[id="tabstu"]{
+	margin-left: 4%;
+}
+
+.menustu{
+	font-family: serif;
+    font-size: 2vw;
+    color: blue;
+}

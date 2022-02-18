@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+#titolo {	
+	font-family: serif;
+    font-size: 3vw;
+    border: 2px solid blue;
+    color: yellow;
+    width: 75%;
+    border-radius: 5vw;
+    text-align: center;
+    margin: 0px auto;
+    background-color: #0000cc;
+    margin-bottom: 2%;
+}
+
+	

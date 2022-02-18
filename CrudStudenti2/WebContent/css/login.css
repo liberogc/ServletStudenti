@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+
+#titolo {	
+	font-family: serif;
+    font-size: 3vw;
+    border: 2px solid blue;
+    color: #ffff33;
+    width: 75%;
+    border-radius: 5vw;
+    text-align: center;
+    margin: 0px auto;
+    background-color: #0000cc;
+    margin-bottom: 2%;
+}
+
+form[id="formlogin"] {
+	margin-left: 30%;
+}
+#divsub {
+	margin-top: 2%;
+    border: 1px solid red;
+    width: 55%;	
+    border-radius: 5vw;
+    font-size: 1vw;
+}	
+
+#sub {
+    width: 100%;	
+    border-radius: 5vw;
+    font-size: 2vw;
+}
+
+.login {
+	font-family: serif;
+    font-size: 2vw;
+    font-style: bold;
+    color: red;
+}
+
+input[class="inlogin"]{
+	font-family: serif;
+    font-size: 2vw;
+    font-style: bold;
+    color: green;
+}
+
+#errore	{
+	font-family: serif;
+    font-size: 2vw;
+    font-style: bold;
+    color: black;
+}
